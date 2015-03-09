@@ -1,0 +1,4 @@
+URxvt.font:             xft:Terminus:pixelsize=14
+URxvt.scrollstyle:      plain
+URxvt.saveLines:        4095
+URXvt*background:       green

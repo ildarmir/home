@@ -1,0 +1,10 @@
+!XTerm*faceName: Terminus
+!XTerm*faceSize: 14
+XTerm*font: -*-terminus-*-*-*-*-16-*-*-*-*-*-iso10646-*
+XTerm*foreground: DodgerBlue4
+XTerm*background: Cornsilk1
+XTerm*utf8Title: true
+XTerm*saveLines: 10000
+XTerm*allowBoldFonts: true
+XTerm*cursorColor: red
+XTerm*jumpScroll: false
